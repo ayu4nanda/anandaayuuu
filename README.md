@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Ananda Ayu Puspitaningrum**.\
+Saya seorang mahasiswa informatika di Universitas Pembangunan Nasional Veteran Jawa Timur. 
+
+Kesibukan saya sekarang menjadi peserta **Studi Independen** di [Dicoding](https://www.dicoding.com/).\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/anandaayp/)ku ya.
